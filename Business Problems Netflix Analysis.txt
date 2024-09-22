@@ -1,0 +1,35 @@
+BUSINESS PROBLEMS ----
+
+1.Determine the market share of each genre on Netflix’s platform to better allocate content acquisition budgets across different genres?
+
+2.What is the dominant genre on Netflix that can help inform future content production and partnership decisions?
+
+3.How can we quantify the disparity in content availability between the most popular and least popular genres, and what does this reveal about customer preferences?
+
+4.How can we measure the variability in the number of titles per genre to ensure a balanced content portfolio and address any gaps in genre offerings?
+
+5.What are the long-term trends in genre consumption, and how can Netflix use this data to predict and respond to shifts in audience preferences?
+
+6.How can we compare the consistency of Netflix's investment in movie versus TV show content over the years, and what does this reveal about changing consumer demand?
+
+7.How has the growth rate of movies and TV shows evolved over time, and what trends can Netflix leverage to optimize future content releases?
+
+8.How do movie addition trends from the 1990s compare to the 2000s, and what can Netflix learn from these patterns to enhance content curation for different generational cohorts?
+
+9.What are the top-performing genres in each country over the past 5 years, and how can Netflix tailor its content strategy to maximize regional audience engagement?
+
+10.Which genres have demonstrated the most consistent demand across different markets, and how can Netflix capitalize on this consistency to maintain a loyal viewership?
+
+11.Who are the most successful directors within each rating category, and how can Netflix use this information to drive talent partnerships and content development strategies?
+
+12.What are the most significant projects for each director based on cast size and production complexity, and how can this data inform Netflix’s future collaborations?
+
+13.How can we identify the movie ratings that resonate most with audiences in different countries, and use this data to tailor Netflix’s content offerings by region?
+
+14.Which actors or actresses are driving viewership within each rating category, and how can Netflix leverage star power to increase subscriptions and engagement?
+
+15.How consistent has Netflix been in releasing content across different rating categories, and how can this data guide future content planning to ensure a balanced release strategy?
+
+16.What are the viewing duration trends for TV shows and movies across different ratings, and how can this data help Netflix optimize content length for maximum audience retention?
+
+17.What are the most common keywords in movie descriptions within each genre, and how can Netflix use this insight to enhance SEO and recommendation algorithms for better user discovery?
