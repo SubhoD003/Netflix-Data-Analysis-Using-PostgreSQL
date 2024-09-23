@@ -32,7 +32,7 @@ This project aims to conduct an in-depth analysis of Netflix's movies and TV sho
 
 
 
-## Creating connection with PostreSQL Server
+## Creating connection with PostgreSQL Server
 ```python
 from sqlalchemy import create_engine
 import psycopg2
